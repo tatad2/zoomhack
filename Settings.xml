@@ -11,5 +11,5 @@
   <AutoApply>True</AutoApply>
   <DesiredZoom>50</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation></OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/tatad2/zoomhack/main/Settings.xml</OffsetUpdateLocation>
 </Root>
