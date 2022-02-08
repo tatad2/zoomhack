@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX11>
+    <StructureAddress>1DAD380</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2022-02-09 - patch 5.58 (DX11)</LastUpdate>
+  <AutoApply>True</AutoApply>
+  <DesiredZoom>50</DesiredZoom>
+  <DesiredFov>0.78</DesiredFov>
+  <OffsetUpdateLocation></OffsetUpdateLocation>
+</Root>
